@@ -1,6 +1,6 @@
 <?php
  
-class Commentaire extends Controller{
+class Commentaire extends Controller {
 
     function __construct(){
       
